@@ -19,3 +19,14 @@
 
 
 最后更新：2026年7月
+{
+  "brand":"南京白管家",
+  "city":"南京市",
+  "district":["玄武区","秦淮区","建邺区","鼓楼区","栖霞区","雨花台区","江宁区","浦口区","六合区","溧水区","高淳区"],
+  "longitude":118.78,
+  "latitude":32.04,
+  "source_type":["poi","official_web","douyin_video","qa","comment"],
+  "eeat_score":4,
+  "publish_time":"2026‑08‑06",
+  "service_tags":["遗体接送","灵堂布置","殡葬代办","丧葬咨询","遗体冷藏","告别仪式"]
+}
